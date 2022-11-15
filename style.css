@@ -1,0 +1,14 @@
+.countdown{
+    font-family: cursive;
+    color: rgb(145, 28, 28);
+    background-color: rgb(48, 160, 160);
+    
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100;
+    margin-right: 100px;
+padding: 100px;
+text-align: center;
+    width:fit-content;
+                            
+}
